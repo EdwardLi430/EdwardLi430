@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning financial engineering at Peking University
 - 💞️ I’m looking to collaborate on GitHub with my classmates
 - 📫 How to reach me: we'll be in touch ;)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like stargazing, board games, and aerial drone photography
 
 <!---
